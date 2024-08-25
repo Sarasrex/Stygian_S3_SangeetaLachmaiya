@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PropSpawn
+  - Enemy
+  - Ambrosia
+  - DevotionManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Ambrosia
+  - Terrain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3827120993
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 1591494569
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1999482647
+    locked: 0
+  - name: CharacterLayer
+    uniqueID: 3331655089
+    locked: 0

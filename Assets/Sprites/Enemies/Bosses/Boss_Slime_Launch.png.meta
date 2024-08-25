@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: e0070b567ba6fae4998af5315623e05f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 4777
+        width: 1119
+        height: 1096
+      alignment: 9
+      pivot: {x: 0.4739918, y: 0.2702922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9ffa2d4138cfc46997fb43430fbb42
+      internalID: 1129040224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_0
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2577
+        width: 1190
+        height: 1193
+      alignment: 9
+      pivot: {x: 0.30745065, y: 0.22945487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0c358fdd8e23f4183ec74e53a22f59
+      internalID: -1628834004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_1
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 2595
+        width: 1167
+        height: 1210
+      alignment: 9
+      pivot: {x: 0.30745065, y: 0.22945487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1355cc9e256c1c4589c8aa93752ca61
+      internalID: -1750342496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_2
+      rect:
+        serializedVersion: 2
+        x: 5023
+        y: 2589
+        width: 1256
+        height: 1401
+      alignment: 9
+      pivot: {x: 0.042391762, y: 0.07727471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612091832aa88f469ef8ee9ebc640ed
+      internalID: 769557538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_4
+      rect:
+        serializedVersion: 2
+        x: 6927
+        y: 2554
+        width: 1265
+        height: 1442
+      alignment: 9
+      pivot: {x: 0.08361777, y: 0.11251511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0158f7eb385c07f4bbd6ee5239c6ce75
+      internalID: -169676017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_5
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 4947
+        width: 1119
+        height: 1096
+      alignment: 9
+      pivot: {x: 0.4739918, y: 0.2702922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e9b88a18abaee48995bf50beb5b446
+      internalID: 1111374709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_6
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 4795
+        width: 1119
+        height: 1096
+      alignment: 9
+      pivot: {x: 0.4739918, y: 0.2702922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3652f7d7053d84cad6df97e2dcf40c
+      internalID: 896083582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_7
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 4795
+        width: 1119
+        height: 1096
+      alignment: 9
+      pivot: {x: 0.4739918, y: 0.2702922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28218352359d494439bba6401254a05b
+      internalID: 266187215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 6824
+        width: 1119
+        height: 1096
+      alignment: 9
+      pivot: {x: 0.4739918, y: 0.2702922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5857a8eaf138a1e478e92429a660e97e
+      internalID: 665423271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_9
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 6833
+        width: 1119
+        height: 1096
+      alignment: 9
+      pivot: {x: 0.4739918, y: 0.2702922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3636de12eb70e478f4cc6da8881e11
+      internalID: -447530096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_10
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 6824
+        width: 1119
+        height: 1096
+      alignment: 9
+      pivot: {x: 0.4739918, y: 0.2702922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c76678d56f09ba4b87480856c6c3de0
+      internalID: -1252512098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_11
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 6833
+        width: 1119
+        height: 1096
+      alignment: 9
+      pivot: {x: 0.4739918, y: 0.2702922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be101b1b925e43b4b80eb3cf6ad2461c
+      internalID: 675803751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Slime_Launch_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 639
+        width: 1561
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.08361777, y: 0.11251511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd163309f2d860489a4d312f8ebbfe2
+      internalID: -1120436009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boss_Slime (1)_0: -838141584
+      Boss_Slime (1)_1: -1720173579
+      Boss_Slime (1)_10: -1358735594
+      Boss_Slime (1)_11: 2109140452
+      Boss_Slime (1)_12: -1693650451
+      Boss_Slime (1)_13: 1401472765
+      Boss_Slime (1)_14: 278767567
+      Boss_Slime (1)_15: -878752706
+      Boss_Slime (1)_16: 2008070240
+      Boss_Slime (1)_17: 528867613
+      Boss_Slime (1)_18: 446168099
+      Boss_Slime (1)_19: 1314357096
+      Boss_Slime (1)_2: 1671619718
+      Boss_Slime (1)_20: 1861891737
+      Boss_Slime (1)_21: -324841865
+      Boss_Slime (1)_22: 783591049
+      Boss_Slime (1)_23: 521856641
+      Boss_Slime (1)_24: 399922566
+      Boss_Slime (1)_25: -1343058461
+      Boss_Slime (1)_26: -246139930
+      Boss_Slime (1)_27: 1758641632
+      Boss_Slime (1)_28: -91472359
+      Boss_Slime (1)_29: 1305005135
+      Boss_Slime (1)_3: 2125096455
+      Boss_Slime (1)_30: -733749532
+      Boss_Slime (1)_31: -1561222523
+      Boss_Slime (1)_32: -1629968104
+      Boss_Slime (1)_33: 1202806171
+      Boss_Slime (1)_34: 965970325
+      Boss_Slime (1)_35: -974107344
+      Boss_Slime (1)_36: -1254827806
+      Boss_Slime (1)_37: 1234388419
+      Boss_Slime (1)_38: 120619843
+      Boss_Slime (1)_39: -1705889948
+      Boss_Slime (1)_4: 1242270290
+      Boss_Slime (1)_40: -364659545
+      Boss_Slime (1)_41: -1943840608
+      Boss_Slime (1)_42: -464309018
+      Boss_Slime (1)_43: -11448867
+      Boss_Slime (1)_44: 969591867
+      Boss_Slime (1)_45: -777522421
+      Boss_Slime (1)_46: -799411102
+      Boss_Slime (1)_47: -789894913
+      Boss_Slime (1)_48: -404350308
+      Boss_Slime (1)_49: -1427981105
+      Boss_Slime (1)_5: -1408525832
+      Boss_Slime (1)_50: -79934605
+      Boss_Slime (1)_51: -1404122473
+      Boss_Slime (1)_52: -966006133
+      Boss_Slime (1)_53: -559793754
+      Boss_Slime (1)_54: 1176768363
+      Boss_Slime (1)_55: -1034992671
+      Boss_Slime (1)_56: -1230370897
+      Boss_Slime (1)_57: -1566686392
+      Boss_Slime (1)_58: 1150636026
+      Boss_Slime (1)_59: 879328475
+      Boss_Slime (1)_6: -847594861
+      Boss_Slime (1)_60: 1798497607
+      Boss_Slime (1)_61: -851540658
+      Boss_Slime (1)_62: -1018127840
+      Boss_Slime (1)_63: 509111277
+      Boss_Slime (1)_64: -1559062013
+      Boss_Slime (1)_65: 808677934
+      Boss_Slime (1)_66: -1052912890
+      Boss_Slime (1)_67: 207569012
+      Boss_Slime (1)_68: -922698453
+      Boss_Slime (1)_69: 28010246
+      Boss_Slime (1)_7: -2055152388
+      Boss_Slime (1)_70: -1967456374
+      Boss_Slime (1)_71: -1450828329
+      Boss_Slime (1)_72: -1979298268
+      Boss_Slime (1)_73: 1756858955
+      Boss_Slime (1)_74: 1226723233
+      Boss_Slime (1)_8: -966715472
+      Boss_Slime (1)_9: 1132150241
+      Boss_Slime_Launch_0: -1628834004
+      Boss_Slime_Launch_1: -1750342496
+      Boss_Slime_Launch_10: -1252512098
+      Boss_Slime_Launch_11: 675803751
+      Boss_Slime_Launch_12: -1120436009
+      Boss_Slime_Launch_2: 769557538
+      Boss_Slime_Launch_3: 1129040224
+      Boss_Slime_Launch_4: -169676017
+      Boss_Slime_Launch_5: 1111374709
+      Boss_Slime_Launch_6: 896083582
+      Boss_Slime_Launch_7: 266187215
+      Boss_Slime_Launch_8: 665423271
+      Boss_Slime_Launch_9: -447530096
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
