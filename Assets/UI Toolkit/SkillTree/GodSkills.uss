@@ -139,7 +139,7 @@
 }
 
 .moveAresSkillPopUpPanelIntoFrame {
-    translate: 0 -974px;
+    translate: 824px -974px;
     transition-delay: 0.1s;
     transition-duration: 0.2s;
     transition-timing-function: ease-in;
@@ -148,7 +148,7 @@
 }
 
 .moveApolloSkillPopUpPanelIntoFrame {
-    translate: 0 -732px;
+    translate: 292px -983px;
     transition-delay: 0.1s;
     transition-duration: 0.2s;
     transition-timing-function: ease-in;
@@ -193,7 +193,7 @@
 }
 
 .moveNyxSkillPopUpPanelIntoFrame {
-    translate: 0 -1342px;
+    translate: 559px -1014px;
     transition-delay: 0.1s;
     transition-duration: 0.2s;
     transition-timing-function: ease-in;
