@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   character:
   - characterName: Medea
-    characterSprite: {fileID: -1394225260, guid: b360d93acdcffa34d85ffa98908d35fd, type: 3}
+    characterSprite: {fileID: 1620718016, guid: a3ae7c32c9a588047ada1eae18993a2b, type: 3}
   - characterName: Orpheus
-    characterSprite: {fileID: -1413319691, guid: b360d93acdcffa34d85ffa98908d35fd, type: 3}
+    characterSprite: {fileID: 2067377962, guid: a3ae7c32c9a588047ada1eae18993a2b, type: 3}
   - characterName: Theseus
-    characterSprite: {fileID: -1247287159, guid: b360d93acdcffa34d85ffa98908d35fd, type: 3}
+    characterSprite: {fileID: 1924588771, guid: a3ae7c32c9a588047ada1eae18993a2b, type: 3}
