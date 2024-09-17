@@ -1501,13 +1501,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 800747152}
+  - component: {fileID: 800747153}
   m_Layer: 0
   m_Name: SinkHoleController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &800747152
 Transform:
   m_ObjectHideFlags: 0
@@ -1523,6 +1524,41 @@ Transform:
   m_Children: []
   m_Father: {fileID: 430522994}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &800747153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 800747151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72d56415b6c88a84ea6cc6d8f06fcbd0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  prefab: {fileID: 3770774168003884766, guid: 2e4d3f652f83a0b49bb623488152f055, type: 3}
+  damage: 10
+  speed: 3
+  cooldownDuration: 3
+  currentCooldown: 0
+  pierce: 1
+  count: 1
+  fireAtEnemy: 0
+  detectionRadius: 0
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  attackAngle: 0
+  enemyTag: Enemy
 --- !u!1 &843762906
 GameObject:
   m_ObjectHideFlags: 0
@@ -2645,7 +2681,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1210241529
 Transform:
   m_ObjectHideFlags: 0
